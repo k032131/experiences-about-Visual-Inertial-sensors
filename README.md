@@ -18,4 +18,4 @@ The contents in this file are referenced from https://github.com/ethz-asl/mav_to
 <a id="user-content-timestamp-accuracy" class="anchor" href="#timestamp-accuracy" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
   
   
-al IMU. For example we use the <a href="http://www.analog.com/en/products/adis16448.html" rel="nofollow">Analog Devices ADIS16448</a>. Our fork of 
+https://camo.githubusercontent.com/02537dd4fc168462715269e7b0e7a1260673e4e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e6d6872377346444d307674324c693744792f67697068792e676966
