@@ -16,4 +16,6 @@ The contents in this file are referenced from https://github.com/ethz-asl/mav_to
 <p>Some odometry systems (e.g. VINS mono) will attempt to compensate for timing errors, while others (e.g. ROVIO) require that all timestamps are accurate.</p>
 <h1>
 <a id="user-content-timestamp-accuracy" class="anchor" href="#timestamp-accuracy" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-
+  
+  
+al IMU. For example we use the <a href="http://www.analog.com/en/products/adis16448.html" rel="nofollow">Analog Devices ADIS16448</a>. Our fork of 
