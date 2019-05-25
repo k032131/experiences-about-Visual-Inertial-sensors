@@ -16,3 +16,5 @@ The contents in this file are referenced from https://github.com/ethz-asl/mav_to
 </ul>
 <p>Some odometry systems (e.g. VINS mono) will attempt to compensate for timing errors, while others (e.g. ROVIO) require that all timestamps are accurate.</p>
 
+#Timestamp accuracy
+
